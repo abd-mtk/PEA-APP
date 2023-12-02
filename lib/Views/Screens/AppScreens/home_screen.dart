@@ -41,7 +41,7 @@ class HomeScreen extends StatelessWidget {
             ),
             GButton(
               icon: Icons.category,
-              text: 'تبرعاتي',
+              text: 'احداثي',
             ),
             GButton(
               icon: Icons.person,
